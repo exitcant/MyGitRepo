@@ -1,0 +1,8 @@
+1. git --version : what kind version you have and if it's installed
+2.git status: to check the txt files that hasn't been committed yet
+3. git add: to add the txt files
+4. git commit -m "" : To add wording in the "" 
+5. git log: to check what has been commit and by whom
+6. git config --global user.name , user.email : to add a name and email to identify who did what
+7. git checkout : add the branch numbers,letters to temporarily delete ur files
+8. git checkout master: to get back the temporarily files back

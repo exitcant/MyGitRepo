@@ -6,3 +6,6 @@
 6. git config --global user.name , user.email : to add a name and email to identify who did what
 7. git checkout : add the branch numbers,letters to temporarily delete ur files
 8. git checkout master: to get back the temporarily files back
+9. push an existing repository from the command line:  git remote add origin https://github.com/exitcant/MyGitRepo.git
+git branch -M main
+git push -u origin main
